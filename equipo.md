@@ -8,7 +8,7 @@ lang: es
 ---
 
 ## Equipo de Proyecto, Haverford College, Pennsylvania
-- Alex Galarza, CLIR Postdoctoral Fellow in Data Curation and Latin American & Caribbean Studies
+- Alex Galarza, CLIR Postdoctoral Fellow and Project Lead
 - Brie Gettleson, Research and Instruction Librarian
 - Andy Janco, Digital Scholarship Librarian
 - Krista Oldham, College Archivist
@@ -16,8 +16,8 @@ lang: es
 - Mike Zarafonetis, Coordinator for Digital Scholarship and Research Services
 
 ## Equipo de Proyecto, Grupo de Apoyo Mutuo, Guatemala City
-- Carlos Juarez
 - Daniel Alvarado
+- Carlos Juarez
 - Verena Krautter
 
 ## Digital Scholarship Compañeros
@@ -29,11 +29,14 @@ lang: es
 - Mariana Ramírez
 - Rafael Rodríguez-Charris
 
-## Colaboradores y Consejo Asesor
+## Consejo Asesor, Haverford College
+- Eric Hartman, Executive Director of the Center for Peace and Global Citizenship
+- Anita Isaacs, Professor of Social Sciences
+- Terry Snyder, Librarian of the College
+- Stephanie Zukerman, Program Manager for International Programs at the Center for Peace and Global Citizenship
+
+## Colaboradores
 - Hannah Alpert-Abrams, CLIR Postdoctoral Fellow, University of Texas at Austin
 - David Bliss, Digital Processing Archivist, University of Texas at Austin
-- Eric Hartman, Executive Director of the Center for Peace and Global Citizenship, Haverford College
-- Anita Isaacs, Professor of Social Sciences, Haverford College
 - Theresa Polk, Archivist, University of Texas at Austin
-- Terry Snyder, Librarian of the College, Haverford College
-- Stephanie Zukerman, Program Manager for International Programs at the Center for Peace and Global Citizenship, Haverford College
+

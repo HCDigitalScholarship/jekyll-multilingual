@@ -29,11 +29,13 @@ lang: en
 - Mariana Ramírez
 - Rafael Rodríguez-Charris
 
-## Partners and Advisory Council
+## Advisory Council, Haverford College
+- Eric Hartman, Executive Director of the Center for Peace and Global Citizenship
+- Anita Isaacs, Professor of Social Sciences
+- Terry Snyder, Librarian of the College
+- Stephanie Zukerman, Program Manager for International Programs at the Center for Peace and Global Citizenship
+
+## Collaborators
 - Hannah Alpert-Abrams, CLIR Postdoctoral Fellow, University of Texas at Austin
 - David Bliss, Digital Processing Archivist, University of Texas at Austin
-- Eric Hartman, Executive Director of the Center for Peace and Global Citizenship, Haverford College
-- Anita Isaacs, Professor of Social Sciences, Haverford College
 - Theresa Polk, Archivist, University of Texas at Austin
-- Terry Snyder, Librarian of the College, Haverford College
-- Stephanie Zukerman, Program Manager for International Programs at the Center for Peace and Global Citizenship, Haverford College
