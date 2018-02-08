@@ -1,0 +1,34 @@
+---
+published: true
+layout: post
+title: Partnering on Digital Archives and Human Rights in Guatemala
+author: Alex Galarza and Hannah Alpert-Abrams
+lang: en
+ref: partnering
+---
+*This post originally appeared on [CLIR's Re:Thinking Blog](https://www.clir.org/2018/01/partnering-digital-archives-human-rights-guatemala/) on January 23, 2018. It is re-posted here with CLIR's permission.*
+
+*In the post, Hannah Alpert-Abrams and Alex Galarza describe how they have understood their roles in collaborative projects with Guatemalan partner organizations seeking justice for human rights violations committed during the country’s civil war (1960-1996). Both are CLIR/DLF Postdoctoral Fellows in Data Curation for Latin American and Caribbean Studies whose projects focus on post-custodial archives in Guatemala City.*
+
+**Hannah:** In 2005, delegates from the Guatamalan Human Rights Ombudsman’s Office stumbled upon a cache of documents in an abandoned hospital building in Guatemala City. In response, the Archivo Histórico de la Policía Nacional (AHPN) was formed to preserve, clean, organize, and provide access to the records, which document the Guatemala National Police from 1882 to 1996. While the archive serves many different research populations, its primary role today is to shed light on the role of the national police in kidnapping, torturing, and killing citizens during the period of civil war (1960-1996). This can help people whose loved ones were disappeared by the police to find closure. In some cases, it can also help legal teams pursue justice.
+
+The University of Texas at Austin partnered with the AHPN in 2011 to build an online portal that could provide broader access to the digital archive. The website was launched in December of that year with a bare-bones interface that allows users to browse the vast collection and search for the records of individuals by name. Since that time, however, the technology for storing, indexing, and displaying records has changed dramatically, and the digital collection has doubled in size. I was hired to help the University of Texas Libraries figure out how to modernize this legacy collection.
+
+I visited Guatemala in November 2017 to meet the AHPN archivists and to learn more about the collection. I came to the position with several years of experience working with digital repositories. What is different about the AHPN is the sheer magnitude of the collection. It took two days of working with the AHPN archivists to understand how to navigate baroque sequence of SQL, Access, and CSV databases that describe the contents of the AHPN. The more important lesson I learned during my visit, however, was about the fundamental importance of the AHPN staff and their specialized knowledge in mediating between researchers and the collection. These staff members do more than simply search a database. They develop intimate relationships with the victims of police violence and use their expertise to convert testimony into searchable queries, helping families find out what happened to the desaparecidos, their loved ones who were disappeared.
+
+One challenge of my job is the technical work of data migration, database merging, and user interface design. Perhaps the more complex task is doing that work within the framework of social justice and compassionate communication that shapes interactions with the AHPN today.
+
+**Alex:** In 1984, friends and family members of Guatemalans “disappeared” by state security forces came together to found the Grupo de Apoyo Mutuo (GAM). In the course of three decades of searching for their loved ones, the GAM’s members have collected documents related to thousands of cases of desaparecidos and other materials from their various programs working on and documenting exhumations of mass graves, violence against women, and displaced children.
+
+I took my first trip to Guatemala and the GAM offices in September 2017 to begin planning our digitization efforts. With financing from the German Society for International Cooperation (GIZ) and a wealth of experience from working at the AHPN, GAM staff had spent the last year cleaning, boxing, labeling, and shelving over 60 linear feet of materials. The small archival team sorted the archive into thematic collections (e.g., disappearances, psycho-social support programs) but had not yet begun a registry of cases or descriptive work on them. We’ve made great progress since then by creating a registry, implementing a digitization and secure file transfer workflow, and building a prototype for the public-facing access layer.
+
+I’ve counted on my experience in archives and digitization for this work, but it’s my ethnographic training that has helped the most in understanding my role within an international, post-custodial digital archive project. The sustainability and ultimate goals of the project must be tailored to the complex landscape of human rights groups in Guatemala and the service model of a library. Ethical considerations are paramount in opening access to an archive of brutal violence—a violence overwhelmingly perpetrated by state security forces trained in counterinsurgency by the United States. It’s only through close participant-observation that I’ve been able to somewhat successfully navigate these tensions.
+
+*On visiting one another’s partner sites in Guatemala:*
+
+**Hannah:** When you enter the GAM offices you are immediately confronted by images of resistance: photographs and paintings of GAM members fighting for justice. That same energy is present in the archival work, which is powered by an enthusiastic team of highly motivated staff members and volunteers. Visiting the GAM with my supervisor, Theresa Polk, was an opportunity to see what the creation of a digital archive looks like on a day-to-day level. It has been inspiring to watch this collection blossom, and I am looking forward to seeing how we may build the relationship between our two collections.
+
+**Alex:** Collaborating with Hannah as a member of our CLIR cohort has been tremendously helpful and fulfilling. Not only have we drawn on UT’s extensive expertise in post-custodial archiving and digitization workflows for Latin American partner organizations, but I also joined Hannah and her colleague Theresa Polk during a visit to the AHPN and we are working to link data across our projects. As we toured the facilities, I was struck by how incomprehensible the scale of 80 million documents is until you see this amount of material in person.
+
+_Below left, boxes house AHPN archives (Photo courtesy Archivo Histórico de la Policía Nacional, Guatemala); below right, archival boxes in the GAM archives (Photo courtesy of Alex Galarza)._
+![boxes house AHPN archives (Photo courtesy Archivo Histórico de la Policía Nacional, Guatemala); below right, archival boxes in the GAM archives (Photo courtesy of Alex Galarza)]({{site.baseurl}}/images/boxes.jpg)

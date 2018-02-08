@@ -1,21 +1,9 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: about/
 ref: about
 lang: en
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find this multilanguage theme at :
-{% include icon-github.html username="sylvaindurand" %} /
-[multilingual-jekyll](https://github.com/sylvaindurand/multilingual-jekyll)
-
-You can find the original source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+The GAM Digital Archive is a collaborative, post-custodial digitization project that aims to preserve and provide access to materials held by Guatemala’s oldest human rights organization. The [introductory post](http://ds.haverford.edu/gam-archive/2017/12/13/introducing-gam.html) to this blog provides further detail on the project's history.
