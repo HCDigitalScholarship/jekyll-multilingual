@@ -21,13 +21,13 @@ lang: es
 - Verena Krautter
 
 ## Digital Scholarship Compañeros
-- Rosemary Cohen
-- Ashley Guzman
-- Zakkai Markowitz
-- Natalia Mora
-- Tania Ortega
-- Mariana Ramírez
-- Rafael Rodríguez-Charris
+- Rosemary Cohen '18
+- Ashley Guzman '19
+- Zakkai Markowitz '21
+- Natalia Mora '21
+- Tania Ortega '19
+- Mariana Ramírez '20
+- Rafael Rodríguez-Charris '20
 
 ## Consejo Asesor, Haverford College
 - Eric Hartman, Executive Director of the Center for Peace and Global Citizenship
