@@ -8,7 +8,7 @@ ref: partnering
 ---
 *Este artículo se publicó originalmente en el [blog de CLIR, Re:Thinking](https://www.clir.org/2018/01/partnering-digital-archives-human-rights-guatemala/) el 23 de enero, 2018. Lo publicamos en este blog con su permiso.*
 
-*En este artículo, Hannah y Alex describen cómo han entendido sus papeles en proyectos colaborativos con organizaciones que trabajan juntas en Guatemala, todas cuales buscan justicia para las violaciónes de derechos humanos cometidas durante el periodo de la guerra civil del país (1960-1966).* 
+*En este artículo, Hannah y Alex describen cómo han entendido sus papeles en proyectos colaborativos con organizaciones que trabajan juntas en Guatemala, todas cuales buscan justicia para las violaciónes de derechos humanos cometidas durante el periodo de la guerra civil del país (1960-1996).* 
 
 **Hannah:** En 2005, delegados de la procuraduría de derechos humanos encontró una gran colección  de documentos en un edificio de hospital abandonado. El Archivo Histórico de la Policía Nacional fue formada para preservar, limpiar, organizar, y proveer acceso a los registros, los cuales documentan la policía nacional guatemalteca entre los años 1882-1996. Aunque el archivo atiende a muchos grupos diferentes de investigaciones, su función primordial es esclarecer el papel de la policía nacional in el secuestro, la tortura, y el asesinato de varios ciudadanos durante el periodo de la guerra civil (1960-1996). Esto le puede ayudar a personas quienes seres queridos fueron desaparecidos por el estado, para poder encontrar un cierre. En algunos casos, incluso le puede ayudar a equipos legales a poder encontrar justicia. 
 
