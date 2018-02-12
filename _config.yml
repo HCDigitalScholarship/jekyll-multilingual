@@ -21,6 +21,7 @@ feed:
 baseurl: "/gam-archive" # the subpath of your site, e.g. /blog
 url: "http://ds.haverford.edu" # the base hostname & protocol for your site
 twitter_username: galarzaalex
+permalink: /:categories/:year/:month/:day/:title/
 
 # Build settings
 markdown: kramdown
