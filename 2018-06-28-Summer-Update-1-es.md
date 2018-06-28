@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 author: Natalia Mora and Tania Ortega and Mariana Ramirez and Rafael Rodriguez
 lang: en
@@ -24,6 +24,3 @@ En dos semanas y media, estaremos viajando a Austin, Texas y a Washington, D.C. 
 	Tania Ortega va a empezar su último año en la Universidad de Haverford, con una especialización en Antropología y estudios Latinoamericanos. Ella se involucró con el Proyecto de Estudios Digitales con el GAM, después de pasar un verano aprendiendo (por medio de un voluntariado con una organización legal sin fines de lucro) sobre los legados de violencia que se encuentran a través de Centroamérica. 
 
 	Rafael Rodríguez es un estudiante de tercer año en la Universidad de Haverford. Estudia Ciencias de la Computación con una especialización en Economía. El está interesado en explorar la forma de incorporar su interés en la informática con el análisis de circunstancias económicas y políticas desfavorables que afectan a las personas que viven en Latinoamérica.
-
-
-
