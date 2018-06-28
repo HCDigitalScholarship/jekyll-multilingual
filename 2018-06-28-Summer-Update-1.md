@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 author: Natalia Mora and Tania Ortega and Mariana Ramirez and Rafael Rodriguez
 lang: en
@@ -26,4 +26,3 @@ In two and a half weeks, we will be traveling to Austin, Texas and Washington, D
 	Tania Ortega is an incoming senior at Haverford College majoring in Anthropology with a minor in Latin American, Iberian, and Latina/o Studies. She became involved with the GAM Digital Scholarship Compañera/os Project after spending a summer learning about the legacies of violence in Central America through a summer internship with a legal nonprofit. 
 
 	Rafael Rodriguez is an incoming junior at Haverford college, majoring in Computer Science with a minor in Economics. He is interested in exploring ways how his prospective Computer Science degree can be beneficial in understanding how disadvantaged economic and political conditions present in Latin America affect the people in the region.
-
