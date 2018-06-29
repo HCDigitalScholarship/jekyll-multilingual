@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title: Primer Informe de Verano 
 author: Natalia Mora and Tania Ortega and Mariana Ramirez and Rafael Rodriguez
 lang: es
 ref: update
