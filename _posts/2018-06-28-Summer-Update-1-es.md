@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: Natalia Mora and Tania Ortega and Mariana Ramirez and Rafael Rodriguez
-lang: en
+lang: es
 ref: update
 ---
 #Informe de Verano 1#
