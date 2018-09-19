@@ -18,13 +18,14 @@ All but two of these institutions or individuals were associated with the Guatem
 
 Three days after Jorge disappeared, Marina wrote her first letter; it was addressed to the Chief of State, General Oscar Mejia Victores. This letter is handwritten, and though it is not the only handwritten one, it allows us to read it as something with urgency, especially when we consider that it was sent only 3 days after the disappearance. The other letters I will highlight were all typed and began to follow somewhat of a structure that she seemed to have developed for writing her later letters, especially when they were addressed to higher level officials. The structure of her letters is, more or less,  as follows: 
 
-INSERT ILLUSTRATION
+![sandoval1.jpg]({{site.baseurl}}/_images/sandoval1.jpg)
+![sandoval2.jpg]({{site.baseurl}}/_images/sandoval2.jpg)
 
 In this letter to the Chief of State General Oscar Mejia Victores, Marina was asking him to order an investigation regarding the whereabouts of her son. It was a straightforward request with brief mention of her son's honorable character. 
 
-Her letter to Mejia Victores' wife, Aura Rosal de Mejia Victores, is very different on multiple aspects. Written only 17 days after the disappearance of her son, she has taken a more personal approach in writing this letter, an approach which is paralleled by many of the letters she wrote in the future. Within the first section of her 3-paged letter, she appeals to Aura Rosal on the basis of motherhood.
+![sandoval3.jpg]({{site.baseurl}}/_images/sandoval3.jpg)
 
-INSERT ILLUSTRATION
+Her letter to Mejia Victores' wife, Aura Rosal de Mejia Victores, is very different on multiple aspects. Written only 17 days after the disappearance of her son, she has taken a more personal approach in writing this letter, an approach which is paralleled by many of the letters she wrote in the future. Within the first section of her 3-paged letter, she appeals to Aura Rosal on the basis of motherhood.
 
 Comparing her writing in this letter to the writing in her letter to General Mejia Victores, Marina has transitioned into appealing to an individual person rather than appealing to an institution. She provides personal details of her son, explaining that he was the youngest of 7, unemployed and a student. Most other letters solely include his name, age, and political or religious affiliation, depending on the intended audience. In writing to Aura Rosal, Marina appealed to her position as a mother and emphasized the emotional pain of having her son disappeared as well as living in a constant state of uncertainty.
 
@@ -60,7 +61,4 @@ By asking if the earth has swallowed her son, she is establishing the likelihood
 
 My goal was to focus on documents in the GAM archive that feature personal narratives, experiences and emotions of the family members of those who were disappeared. Eight months after my first introduction to Marina’s letters, I am still as moved and impacted by them as the first time. I struggled with how to perform an analysis on this collection without feeling like I was attaching academic jargon or theories onto her personal experiences and emotions. To work through these concerns, I first referred to Frank Afflitto and Paul Jesilow, authors of “Quiet Revolutionaries,” who reminded me that social movements  did not come through radicalism, feminism, or any other -ism. These engagements were born out of necessity. I also turned to Jo Fisher’s “Mothers of the Disappeared,” which was based on the Mothers of Plaza del Mayo in Argentina. Learning about the stories of these women, Fisher struggled to write in such a way that would give justice to their realities. In the end, she saw her role as “one of facilitating an understanding of the context of these events and have tried to leave interpretation and analysis to the women themselves and to avoid intruding into a history which is not my own,” (preface).
 
-Rather than trying to interpret these letters, I have identified patterns across her letters to show how Marina took the justice-seeking process into her own hands. How can I bring these letters into an academic space without diminishing any of their personal and emotional based value? In creating a space for this specific genre of documents that allows us to understand a zoomed in perspective of moments in history, I am arguing for the necessity and value of grounding research in first person documentation efforts, while also reinforcing the validity in recording, writing and remembering history through the lens of individuals. 
-
-
-
+Rather than trying to interpret these letters, I have identified patterns across her letters to show how Marina took the justice-seeking process into her own hands. How can I bring these letters into an academic space without diminishing any of their personal and emotional based value? In creating a space for this specific genre of documents that allows us to understand a zoomed in perspective of moments in history, I am arguing for the necessity and value of grounding research in first person documentation efforts, while also reinforcing the validity in recording, writing and remembering history through the lens of individuals.
