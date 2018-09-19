@@ -54,4 +54,5 @@ As evidenced in reply to the cable I mentioned earlier by Raymond Gonzales, the 
 While doing my own research on Chimaltenango 1982 I thought of questions and purposes that the archive easily lends itself to. It not only helps track the violence of Guatemala throughout a 40-year period but allows Guatemalan citizens to see that their history wasn’t forgetting. The archive can also be of use for anyone wishing to see the effects of the Guatemalan Civil War on indigenous communities or a comparative study of the effects of the Cold War throughout the world.
 
 Works Cited
+
 Chronology: Death Squads, Guerrilla War, Covert Operations, and Genocide: Guatemala and the United States, 1954-1999. 
