@@ -18,7 +18,7 @@ All but two of these institutions or individuals were associated with the Guatem
 
 Three days after Jorge disappeared, Marina wrote her first letter; it was addressed to the Chief of State, General Oscar Mejia Victores. This letter is handwritten, and though it is not the only handwritten one, it allows us to read it as something with urgency, especially when we consider that it was sent only 3 days after the disappearance. The other letters I will highlight were all typed and began to follow somewhat of a structure that she seemed to have developed for writing her later letters, especially when they were addressed to higher level officials. The structure of her letters is, more or less,  as follows: 
 
-![sandoval1.jpg]({{site.baseurl}}/_images/sandoval1.jpg)
+![sandoval1.jpg]({{site.baseurl}}/images/sandoval1.jpg)
 ![sandoval2.jpg]({{site.baseurl}}/_images/sandoval2.jpg)
 
 In this letter to the Chief of State General Oscar Mejia Victores, Marina was asking him to order an investigation regarding the whereabouts of her son. It was a straightforward request with brief mention of her son's honorable character. 
