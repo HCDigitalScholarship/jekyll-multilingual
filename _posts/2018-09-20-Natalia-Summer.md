@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 author: Natalia Mora
 lang: en
@@ -55,4 +55,4 @@ While doing my own research on Chimaltenango 1982 I thought of questions and pur
 
 Works Cited
 
-Chronology: Death Squads, Guerrilla War, Covert Operations, and Genocide: Guatemala and the United States, 1954-1999. 
+Chronology: Death Squads, Guerrilla War, Covert Operations, and Genocide: Guatemala and the United States, 1954-1999.
