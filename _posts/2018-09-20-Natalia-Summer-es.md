@@ -7,14 +7,13 @@ ref: update
 ---
 A través de la historia, el gobierno de los Estados Unidos se ha encontrado involucrado en guerras fuera de sus fronteras, especialmente durante la Guerra Fría. Este fue el caso durante el conflicto armado de Guatemala.  Durante este tiempo, los Estados Unidos, la embajada en particular, fue culpable en ignorando las violaciones de derechos humanos incluyendo, pero no limitado a asesinato, desapariciones, y masacres. Como una estudiante de antropología interesada en los efectos de la política en las vidas humanas, yo vi que el archivo de GAM sirve como un portal para comprender las vidas impactadas por las relaciones gubernamentales entre el gobierno de Guatemala (GOG) y el de los
 Estados Unidos. Empecé mi investigación leyendo varios libros y artículos sobre la política exterior estadounidense en Guatemala, entre estos Armies Without Nations por Robert H. Holden y Dangerous Liaisons: The U. S. in Guatemala por Susanne Jonas, enfocándome específicamente en el principio de la década 1980. Mi decisión de enfocarme solamente en 1982 fue debido en gran parte por el archivo de GAM. Aunque el archivo tiene casos espesando en los años 60 hasta el principio del nuevo siglo, la cantidad más grande viene del año 1982. Yo también quería enfocarme en este ano dado a el grado de las violaciones de derechos humanos durante el reinado del presidente Ríos Montt, ya que 1982 corresponde con el ano del golde de estado militar que puso a Ríos Montt en poder y su política de "tierra quemada, una estrategia militar utilizada para destruir aldeas y desplazar a populaciones.
- 
-Timeline:
+
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1_c9647v2TCr2Zh8kKDqpPmKca6lCUJa2fbJmYmrB6TM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
  
 Utilizando el Digital National Security Archiva (DNSA) pude encontrar una cronología de relaciones gubernamentales de los Estados Unidos y Guatemala que incluye reportes de visitas de la embajada en Guatemala, juntas presidenciales, y cables de oficiales estadounidenses de y para el gobierno de los Estados unidos además de cambios en el gobierno de Guatemala. Yo discuto que estos cables demuestran la complicidad de la embajada de los Estados Unidos. En uno de los cables del principio de 1982, antes del reinado de Ríos Montt, el oficial político Raymond Gonzales de la embajada estadounidense le escribe al State Department urgiendo que el gobierno Estados Unidos “Evitar condonar ... actos ilegales [violaciones de derechos humanos] con su silencio". La respuesta del embajador implica que hacer esto no sería beneficioso para los Estados Unidos, si el caso fuera que acciones ilegales estuvieran ocurriendo.
  
+![Chimaltenango1.jpg]({{site.baseurl}}/images/Chimaltenango1.jpg)
 
- 
 En cables de mas tarde en el año 1982, hay declaraciones que quitan la responsabilidad de violaciones de derechos humanos del ejército y ponen la culpa sobre las guerrillas, quienes la embajada declara que están activas en el área. Ellos apoyan sus acusaciones mencionando reportes del GOG, pero sin embargo ninguna investigación ocurre hasta septiembre cual
 termina en noviembre cuando la embajada oficialmente visita las áreas afectadas.
  
@@ -39,6 +38,7 @@ Las desapariciones siguen una tendencia de 14-17 desapariciones al mes, pero tam
  
 El primer caso en cual me enfoque este verano fue el de Juan Pablo Armira López de 14 años quien desapareció de la capital, pero era de Chimaltenango. Decidí enfocarme en este caso porque, aunque no toma lugar en Chimaltenango, sirve como contexto de las condiciones de Chimaltenango en 1982 y de Guatemala en su totalidad. Su familia dejo Chimaltenango unos meses antes de su desaparición dado al crecimiento de violencia en el área. La ficha de este caso fue llenada más de 10 años después de su desaparición, presumiblemente por un familiar ya que comparten apellido. Mi especulación sobre el intervalo de tiempo es que es el resultado de la amenaza que recibió su madre al tiempo de su secuestro. Cuando la gente fue desparecida en Guatemala amenazas eran comúnmente dirigidas a los familiares sobrevivientes.
 
+![Chimaltenango2.jpg]({{site.baseurl}}/images/Chimaltenango2.jpg)
 
 En la parte de atrás de esta página de la ficha hay un reporte escrito a mano del secuestro, que dice que, si la madre hablaba de lo que paso ellos, el ejército, como mencionado en el reporte, volverían por ella. Muchos de los reportes de desapariciones son llenados durante los años 1994-6, durante el tiempo de los acuerdos de paz. Pero, hay unos que son de la época de los 80, lo cual correlaciona con la formación del Grupo de Apoyo Mutuo.
 
