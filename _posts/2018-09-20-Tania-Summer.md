@@ -29,7 +29,7 @@ Her letter to Mejia Victores' wife, Aura Rosal de Mejia Victores, is very differ
 
 ![sandoval4.jpg]({{site.baseurl}}/images/sandoval4.jpg)
 
-Comparing her writing in this letter to the writing in her letter to General Mejia Victores, Marina has transitioned into appealing to an individual person rather than appealing to an institution. She provides personal details of her son, explaining that he was the youngest of 7, unemployed and a student. Most other letters solely include his name, age, and political or religious affiliation, depending on the intended audience. In writing to Aura Rosal, Marina appealed to her position as a mother and emphasized the emotional pain of having her son disappeared as well as living in a constant state of uncertainty.
+Comparing her writing in this letter to the writing in her letter to General Mejia Victores, Marina has transitioned into appealing to an individual person rather than appealing to an institution. She provides personal details of her son, explaining that he was the youngest of 7, unemployed and a student. Most other letters solely include his name, age, and political or religious affiliation, depending on the intended audience. In writing to Aura Rosal, Marina is appealing to her position as a mother and emphasizing the emotional pain of having her son disappeared as well as living in a constant state of uncertainty.
 
 ![sandoval5.jpg]({{site.baseurl}}/images/sandoval5.jpg)
 
