@@ -20,7 +20,9 @@ Todos menos dos de estas instituciones o individuos eran asociados con el gobier
 
 Tres días después de la desaparición de Jorge, Marina escribió su primera carta; estaba dirigida al Jefe de Estado, el General óscar Mejía Víctores. Esta carta está escrita a mano, y aunque no sea la única en este formato, se aprecia como una carta urgente, especialmente cuando consideramos que fue mandada solo tres días después de la desaparición. Las otras cartas incluidas en mi análisis fueron escritas por máquina de escribir y seguían una estructura que ella usaba más con sus cartas dirigidas a oficiales de alto nivel. Le estructura de sus cartas es:   
 
-INSERT ILLUSTRATION
+![Archive1.pdf]({{site.baseurl}}/images/Screen Shot 2018-10-05 at 2.19.52 AM.pdf)
+
+![Archive1.pdf]({{site.baseurl}}/images/Screen Shot 2018-10-05 at 2.19.39 AM.pdf)
 
 En esta carta al Jefe de Estado General Oscar Mejia Victores, Marina estaba pidiendo el reporte de una investigación sobre el paradero de su hijo. Era un pedido franco acompañado con una mención al carácter honorable de su hijo.
 
