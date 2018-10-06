@@ -48,10 +48,9 @@ Aún siendo amenazados, los familiares viajaron a la Ciudad de Guatemala, unos c
 Aunque no pude leer más detalladamente los casos por falta de tiempo, creo que su existencia dentro de la colección es valiosa tanto para la investigación como para el cuidado de la memoria histórica. Como dijo en su libro Jesús Tecú Osorio, sobreviviente de la masacre de Río Negro, “que nuestras hijas e hijos, nuestras nietas y nietos la conozcan [la historia sangrienta] y no se olviden de ella” (Tecu). La supervivencia de estas historias no está garantizada a medida que los sobrevivientes comienzan a fallecer, y el archivo por su naturaleza es una herramienta contra este olvido. Los casos de Rabinal en la colección de desapariciones del GAM son importantes porque documentan las complejidades de estas historias de violencia. Como podrán ser utilizados por las comunidades de Rabinal aún está por verse.
 
 
-Bibliografia
-Centro Internacional para Investigaciones en Derechos Humanos. Quitar El Agua Al Pez: Analisis Del Terror En Tres Comunidades Rurales de Guatemala (1980-1984). 1996.
+### Bibliografia
 
-Einbinder, Nathan. Dams, Displacement, and Development: Perspectives from Rio Negro, Guatemala. Colegio de la Frontera Sur San Cristobal de las Casas, 2017.
+Centro Internacional para Investigaciones en Derechos Humanos. Quitar El Agua Al Pez: Analisis Del Terror En Tres Comunidades Rurales de Guatemala (1980-1984). 1996.Einbinder, Nathan. Dams, Displacement, and Development: Perspectives from Rio Negro, Guatemala. Colegio de la Frontera Sur San Cristobal de las Casas, 2017.
 
 Equipo de Antropologia Forense de Guatemala. Las Masacres En Rabinal: Estudio Historico Antropologico de Las Masacres de Plan de Sanchez, Chichupac, y Rio Negro. 1997.
 Guatemala-Memory-of-Silence-the-Commission-for.Pdf. 
