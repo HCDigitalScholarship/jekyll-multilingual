@@ -49,7 +49,7 @@ Despite these intimidations, family members still traveled to Guatemala City, ab
 Though time constraints hindered me from completing more close reads of these cases, I believe that their existence within this collection is invaluable not only for research purposes, but for the preservation of historical memory. As Jesus Tecu Osorio, a survivor of the Rio Negro massacres, notes at the beginning of his book, “que nuestras hijas e hijos, nuestras nietas y nietos la conozcan [la historia sangrienta] y no se olviden de ella” (Tecu).  As survivors of state violence begin to leave this world, their narratives are not guaranteed preservation.  The archive, by nature, provides tools to resist forgetting. The cases from Rabinal in the GAM disappearances archive are important because they document the complexities of these histories of violence. How they could be used by communities in Rabinal remains to be seen. 
 
 
-Bibliography 
+### Bibliography
 
 Centro Internacional para Investigaciones en Derechos Humanos. Quitar El Agua Al Pez: Analisis Del Terror En Tres Comunidades Rurales de Guatemala (1980-1984). 1996.
 
