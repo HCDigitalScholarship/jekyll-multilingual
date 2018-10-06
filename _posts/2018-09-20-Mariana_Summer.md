@@ -5,7 +5,7 @@ author: Tania Ortega
 lang: en
 ref: update
 ---
-## "Grupo de apoyo mutuo por el aparecimiento con vida de nuestros hijos, esposos, padres y hermanos": Repression and Resistance in the content and production of the GAM's intake forms 
+## "Grupo de apoyo mutuo por el aparecimiento con vida de nuestros hijos, esposos, padres y hermanos": Repression and Resistance in the Content and Production of the GAM's Intake Forms 
 
 This summer I focused on the violence in Rabinal, a municipality in the department of Baja Verapaz, during the internal armed conflict in Guatemala. Specifically, I focused on what the content and production of the GAM’s intake forms in the disappearances collection can tell us about the complexities of violence in Rabinal. 
 
@@ -65,9 +65,3 @@ Schmidt (ProPublica), Krista Kjellman. Guatemala: Memory of Silence, The Commiss
 https://www.documentcloud.org/documents/357870-guatemala-memory-of-silence-the-commission-for.html. Accessed 9 Aug. 2018.
 
 Tecu Osorio, Jesus. Memoria de Las Masacres de Rio Negro: Recuerdo de Mis Padres y Memoria Para Mis Hijos. 2002.
-
-
-
-
-
-
