@@ -1,15 +1,11 @@
 ---
 published: true
 layout: post
-title: Primer Informe de Verano 
+title: Primer Informe de Verano 2018
 author: Natalia Mora and Tania Ortega and Mariana Ramirez and Rafael Rodriguez
 lang: es
 ref: update
 ---
-#Informe de Verano 1#
-
-
-
 En estas dos primeras semanas de nuestro trabajo en conjunto con el Grupo de Apoyo Mutuo, hemos empezado a trabajar con la colección de desaparecidos, la cual se encuentra en las oficinas del GAM en Ciudad de Guatemala. Estamos en una posición privilegiada como el primer grupo de estudiantes de pregrado que conducen investigaciones académicas usando la riqueza de esta colección. GAM nos ha encomendado la labor de narrar estas historias usando documentos contenidos en esta colección con el propósito de continuar el trabajo de construir memoria histórica en Guatemala. 
 
 Gracias a los esfuerzos colectivos del Centro para la Paz y la Ciudadanía Global, el Programa Chesick y la biblioteca de la Universidad de Haverford, hemos podido enfocarnos en diferentes lentes investigativos, mientras que Alex Galarza, el becario post doctoral a cargo del programa, y el personal del GAM en Ciudad de Guatemala facilitan el proceso de digitalización. Dado a  cambios logísticos este verano, de ir a Ciudad de Guatemala a no poder ir por la actual crisis que pasa el país, los cuatro estudiantes involucrados en este proyecto conducimos investigación usando la colección de desaparecidos, mientras estamos ubicados  en Filadelfia. Estos cambios en logística han impactado severamente nuestra habilidad de contribuir al proceso de digitalización e interactuar con el personal del GAM de una manera directa. Sin embargo, es nuestra expectativa, después de reconfigurar nuestro trabajo remotamente, el poder recibir documentos del archivo, mostrarlos en una capa de acceso público y, de esa manera, avanzar la misión del GAM de promover la memoria histórica.

@@ -1,13 +1,11 @@
 ---
 published: true
 layout: post
+title: title: First Report of Summer 2018
 author: Natalia Mora and Tania Ortega and Mariana Ramirez and Rafael Rodriguez
 lang: en
 ref: update
 ---
-
-#Summer Update 1#
-
 Two weeks into our nine week summer partnership with the Grupo de Apoyo Mutuo, we have begun to delve into the Disappeared archive held at the GAM office in Guatemala City. We are in a unique position as the first undergraduate scholars to be conducting research based on this archive. Our partner organization, the GAM, has entrusted us with the mission of telling stories using documents from this collection in hopes of continuing the work of building historical memory in Guatemala. 
 
 Thanks to the efforts of the Center for Peace and Global Citizenship, Chesick Scholars Program, and Haverford Library, we are able to focus on the research component of this project, while Alex Galarza and GAM staff in Guatemala facilitate the digitization process. Due to changes in our summer logistics, we, the four students working on this project, are based out of Philadelphia rather than Guatemala City. These logistics have primarily impacted our ability to directly contribute to the digitization process and interact with the GAM staff. However, we are hopeful that the current process of receiving documents from the archive through the access layer will still allow us to help the GAM advance its mission of remembrance, despite working remotely.
