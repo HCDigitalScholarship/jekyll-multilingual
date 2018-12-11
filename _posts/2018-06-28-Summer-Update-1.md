@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: title: First Report of Summer 2018
+title: First Report of Summer 2018
 author: Natalia Mora and Tania Ortega and Mariana Ramirez and Rafael Rodriguez
 lang: en
 ref: update
