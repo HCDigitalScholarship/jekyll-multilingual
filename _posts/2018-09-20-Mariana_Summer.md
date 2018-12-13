@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Grupo de apoyo mutuo por el aparecimiento con vida de nuestros hijos, esposos, padres y hermanos" Repression and Resistance in the Content and Production of the GAM's Intake Forms
+title: Repression and Resistance in the Content and Production of the GAM's Intake Forms
 author: Mariana Ramírez
 lang: en
 ref: mrsummer18
