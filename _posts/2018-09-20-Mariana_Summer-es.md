@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: "Grupo de apoyo mutuo por el aparecimiento con vida de nuestros hijos, esposos, padres y hermanos" represión y resistencia en el contenido y producción de las fichas personales del GAM
-author: Mariana Ramírez
+author: Mariana Ramirez
 lang: es
 ref: mrsummer18
 ---
