@@ -23,7 +23,7 @@ Los perpetradores de la violencia comúnmente fueron hombres maya-achi. En comun
 
 Es importante notar que los documentos de Rabinal en el archivo de desapariciones del GAM no son basados en testimonios personales. Los documentos son casi exclusivamente compuestos de fichas personales, los cuales fueron utilizados por el GAM para expedir el proceso de documentación de información relevante a los desaparecidos. Las fichas personales fueron diseñados a fin de ayudar al GAM extraer información importante de los seres queridos de los desaparecidos para poder llevar a cabo la misión del GAM. Las fichas personales jamás nos darán la historia completa porque son papeles impersonales y burocráticos. Cuando las vivencias de una persona se categorizan y desglosan para poder responder preguntas básicas sobres los hechos, tal como el ¿que? ¿quien? ¿como? y ¿donde?, la persona narrando sus vivencias no tiene la oportunidad de manifestar sus emociones. La estructura monótona de las fichas personales burocráticas oscurece el dolor. 
 
-![rabinal1.jpg]({{site.baseurl}}/_posts/rabinal1.jpg)
+![rabinal1.jpg]({{site.baseurl}}/images/rabinal1.jpg)
 
 Aunque las preguntas de las fichas personales son rígidas y específicas, podemos ver que los familiares de las víctimas se esfuerzan por contar la integridad de su historia, documentando sus suplicios. En todos los casos de Rabinal, la última página del formulario se da vuelta y es utilizada para narrar los eventos transcurridos. Estas narraciones revelan que en Rabinal las desapariciones fueron sólo una faceta de la violencia, ya que una persona frecuentemente era víctima de múltiples formas de violencia. Oficiales militares de la base de Rabinal, por ejemplo, efectuaron dos actos de violencia contra Selestino Exitricoc Rodríguez, miembro de las PAC. Una mañana, se lo llevaron de su lugar de trabajo maniatado y lo golpearon durante todo el día; fue liberado esa noche y regresó a su hogar. Quince días más tarde lo secuestraron de su residencia mientras dormía con su familia. Nunca se lo volvió a ver. 
 
@@ -35,7 +35,7 @@ Las investigaciones de la CEH, la Fundación de Antropología Forense de Guatema
 
 Cuatro casos dentro de la colección de desaparecidos del GAM mencionan violaciones ocurridas el 15 de septiembre de 1981. De acuerdo a la mujer de Mateo Alvarado:
 
-![mateo.jpg]({{site.baseurl}}/_posts/mateo.jpg)
+![mateo.jpg]({{site.baseurl}}/images/mateo.jpg)
 
 Dado nuestro conocimiento de los eventos del mercado central, es altamente probable que Mateo Alvarado haya sido una de las víctimas de la masacre. Sin embargo, su esposa no insinúa esto, y dice simplemente que fue desaparecido. ¿Podría mi conocimiento como investigadora y mi tendencia a declararlo víctima de una masacre obstruir la memoria de su marido? ¿Cómo podemos equilibrar nuestros sesgos como investigadores y el respeto por la memoria de los seres queridos de los sobrevivientes?
 

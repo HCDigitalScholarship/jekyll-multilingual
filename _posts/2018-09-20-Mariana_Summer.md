@@ -23,7 +23,7 @@ The perpetrators of violence were often Maya Achi men. In indigenous communities
 
 It is important to note that the cases from Rabinal in the GAM disappearances collection are not based on first- person testimonies. They are almost exclusively comprised of intake forms, which were used by the GAM to expedite the process of documenting important information relating to disappearances. The intake forms had to be structured in a way that allowed the GAM to extract precise information from loved ones that was going to be helpful for them in fulfilling their mission. Thus, we can never get the complete story by merely reading these intake forms for what they are: impersonal, bureaucratic sites of knowledge production intended to serve the GAM’s mission of delivering justice.  When the framing of someone’s lived experience is categorized and broken down into more specific questions that answer Who? What? When? Where? whoever is providing their testimony is not granted the space to insert their emotions. The monotonous nature of bureaucratic intake forms obscures pain. 
 
-![rabinal1.jpg]({{site.baseurl}}/_posts/rabinal1.jpg)
+![rabinal1.jpg]({{site.baseurl}}/images/rabinal1.jpg)
 
 
 Though intake forms are rigid and warrant answers to specific questions, we see the family members of the victims of violence resist telling only part of the story in an effort to document what is important to them. In all of the cases from Rabinal, the last page of the intake form is turned over and used to provide a narrative description of the events. These narrative descriptions reveal that in Rabinal, disappearances were only one form of violence, as one person was often victim of multiple forms of violence. Army officers from the military base of Rabinal, for example, committed two violations against Selestino Exitricoc Rodriguez, a member of the PAC. One morning they forcibly took him from his shift and punished him by tying his hands and hitting him all day. He was released that same night and was able to return to his home. Fifteen days later, however, he was forcibly taken from his home one night while he was sleeping with his family. He was never seen again. 
@@ -36,7 +36,7 @@ Investigations conducted by the CEH, the Guatemalan Forensic Anthropology Founda
 
 Four cases from the GAM’s disappearances collection have violations that occurred on September 15, 1981. According to Mateo Alvarado’s wife:
 
-![mateo.jpg]({{site.baseurl}}/_posts/mateo.jpg)
+![mateo.jpg]({{site.baseurl}}/images/mateo.jpg)
 
 _(In this case: At about 7 am the victim was on his way to the central market in the municipality of Rabinal. He was going to sell his livestock at said market, and after he sold his livestock, he went to make some purchases with his wife. His wife headed home and while the husband was making purchases, the victim was alone in that moment. It was in that moment that he was disappeared but no one knows what happened.)_
 
