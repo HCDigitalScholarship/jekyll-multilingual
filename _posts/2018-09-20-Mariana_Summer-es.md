@@ -1,11 +1,11 @@
 ---
-published: false
+published: true
 layout: post
-author: Tania Ortega
-lang: en
-ref: update
+title: "Grupo de apoyo mutuo por el aparecimiento con vida de nuestros hijos, esposos, padres y hermanos": represión y resistencia en el contenido y producción de las fichas personales del GAM
+author: Mariana Ramírez
+lang: es
+ref: mrsummer18
 ---
-## "Grupo de apoyo mutuo por el aparecimiento con vida de nuestros hijos, esposos, padres y hermanos": represión y resistencia en el contenido y producción de las fichas personales del GAM
 
 Este verano investigue la violencia en Rabinal, un municipio en el departamento de Baja Verapaz, durante el conflicto armado interno en Guatemala. Me enfoque en las complejidades de la violencia en Rabinal a través del contenido y la producción de las fichas personales del GAM dentro de la colección de desaparecidos.  
 

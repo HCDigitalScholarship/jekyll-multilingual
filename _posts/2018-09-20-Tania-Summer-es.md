@@ -1,13 +1,11 @@
 ---
-published: false
+published: true
 layout: post
+title: “Me dirijo a usted hoy…” Un análisis de las cartas de Marina Sandoval, madre de Jorge Sandoval
 author: Tania Ortega
 lang: es
-ref: update
+ref: tosummer18
 ---
-
-#“Me dirijo a usted hoy…” Un análisis de las cartas de Marina Sandoval, madre de Jorge Sandoval#
-
 
 Si la meta de este proyecto era contar las historias del archivo, quería encontrar historias originarias de las palabras de los individuos representados en el archivo. Uno de los primeros casos que encontré en enero de este año fue el de Jorge Mario Alberto Girón Sandoval, un muchacho de 18 años que desapareció en mayo del 1985. Su caso me llamó la atención precisamente porque era un caso lleno entero de cartas que su madre, Marina Sandoval de Girón, escribió a varios oficiales del estado y miembros de la sociedad con la esperanza que encontraría más información sobre el paradero de su hijo. Aquí estaba la historia de la desaparición de Jorge Sandoval, narrada directamente por su madre. Al explorar más el archivo, me animó el priorizar este género de documentos en mis investigaciones; la mayoría de las secciones del archivo que habíamos visto desde ese momento contenía formularios y documentos legales, los cuales no se prestan al mismo nivel de detalle y narrativa que las cartas de Marina. 
 

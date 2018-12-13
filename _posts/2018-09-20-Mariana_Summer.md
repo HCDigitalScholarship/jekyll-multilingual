@@ -1,11 +1,11 @@
 ---
-published: false
+published: true
 layout: post
-author: Tania Ortega
+titke: "Grupo de apoyo mutuo por el aparecimiento con vida de nuestros hijos, esposos, padres y hermanos": Repression and Resistance in the Content and Production of the GAM's Intake Forms
+author: Mariana Ramírez
 lang: en
-ref: update
+ref: mrsummer18
 ---
-## "Grupo de apoyo mutuo por el aparecimiento con vida de nuestros hijos, esposos, padres y hermanos": Repression and Resistance in the Content and Production of the GAM's Intake Forms 
 
 This summer I focused on the violence in Rabinal, a municipality in the department of Baja Verapaz, during the internal armed conflict in Guatemala. Specifically, I focused on what the content and production of the GAM’s intake forms in the disappearances collection can tell us about the complexities of violence in Rabinal. 
 

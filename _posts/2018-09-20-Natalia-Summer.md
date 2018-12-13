@@ -1,11 +1,11 @@
 ---
-published: false
+published: true
 layout: post
+title: United States Complicity in the Disappearances Within Chimaltenango 1982,as Depicted by the GAM Archive 
 author: Natalia Mora
 lang: en
-ref: update
+ref: nmsummer18
 ---
-United States Complicity in the Disappearances Within Chimaltenango 1982,as Depicted by the GAM Archive 
 
 Throughout history, the United States government has often found itself involved in wars outside of its own borders, especially those during the Cold War in Latin America. Such was the case during Guatemala’s armed conflict. During this time period, the United States government, the embassy, in particular, was guilty in turning a blind eye to many human rights violations including but not limited to murder, disappearances, and massacres. As an anthropology student interested in the effects of policy on human lives, I saw that the GAM archive serves as a portal to understanding the human lives impacted by the Government of Guatemala (GOG) and U.S. government relations.  I began my research by reading several books and articles on US foreign policy in Guatemala, amongst these Armies Without Nations by Robert H. Holden and Dangerous Liaisons: The U. S. in Guatemala by Susanne Jonas, specifically focusing on the early 1980s. My decision to then focus solely on 1982 was largely due to the GAM Archive. While it holds cases from throughout Guatemala ranging from the early to mid-60s all the way to the early 2000s, the large majority of cases come from 1982. I also decided to focus on this time period to see the extent of human rights violations during the reign of President Efrain Rios Montt, as 1982 corresponds with the military junta coup that put Rios Montt in power as well as his “scorched earth” policy, a military strategy to destroy villages and displace populations.
 
