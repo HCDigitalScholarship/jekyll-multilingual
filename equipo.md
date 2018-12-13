@@ -14,6 +14,7 @@ lang: es
 - Krista Oldham, College Archivist
 - Emily Thaisrivongs, Metadata Librarian
 - Mike Zarafonetis, Coordinator for Digital Scholarship and Research Services
+- Terry Snyder, Librarian of the College
 
 ## Equipo de Proyecto, Grupo de Apoyo Mutuo, Guatemala City
 - Daniel Alvarado
@@ -25,6 +26,7 @@ lang: es
 - Ashley Guzman '19
 - Zakkai Markowitz '21
 - Natalia Mora '21
+-- Natalia Mora is a second year Anthropology student with a Middle Eastern and Islamic Studies concentration. Her research focuses on United States foreign policy in respect to the Cold War and the fight against terrorism. As a Colombian born American citizen, Natalia has seen the effects of US foreign policy in her home country and is interested in seeing how it parallels to events in the Middle East. She also wishes to do comparative work on the topic of genocide within Guatemala and Spain, specifically related to the Spanish Inquisition.
 - Tania Ortega '19
 - Mariana Ramírez '20
 - Rafael Rodríguez-Charris '20
