@@ -1,12 +1,11 @@
 ---
-published: false
+published: true
 layout: post
+title: “Me dirijo a usted hoy…” An analysis on the letters of Marina Sandoval, mother of Jorge Sandoval
 author: Tania Ortega
 lang: en
-ref: update
+ref: tosummer18
 ---
-
-#“Me dirijo a usted hoy…” An analysis on the letters of Marina Sandoval, mother of Jorge Sandoval#
 
 If the goal of this project was to tell the stories in the archive, then I wanted to find stories that came directly from the words of  individuals being represented in the archive. One of the first cases I encountered back in January of this year was that of Jorge Mario Alberto Giron Sandoval, an 18 year old boy who was disappeared in May 1985. His case stood out precisely because it was almost entirely made up of different letters his mother, Marina Sandoval de Giron, wrote to various state officials and society members in the hopes of gaining more information regarding the whereabouts of her son. Here was the story of Jorge Sandoval’s disappearance, coming directly from the words of his mother. Exploring more of the archive encouraged me to continue to prioritize this genre of documents for my research; much of the archive that we had seen thus far contained intake forms and legal paperwork, the nature of which does not allow for the same level of nuance and narrative as Marina’s letters. 
 
