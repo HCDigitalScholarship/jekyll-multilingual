@@ -17,11 +17,9 @@ lang: es
 - Terry Snyder, Librarian of the College
 
 ## Equipo de Proyecto, Grupo de Apoyo Mutuo, Guatemala City
-- Daniel Alvarado
-- Carlos Juarez
-- Verena Krautter
-- Rita Celeste Villatoro
-- Pablo Galeano
+- Daniel Alvarado, Coordinador de Proceso de Digitalización
+- Carlos Juarez, Coordinador de Archivo Digital de GAM
+- Pablo Galeano, Estudiante de Comunicación y Periodismo
 
 ## Digital Scholarship Compañeros
 - Natalia Mora '21
